@@ -744,7 +744,8 @@ clear: both;
   padding: 0;
   white-space: pre;
   border: 0;
-  background: transparent;
+  /*background: transparent;*/
+  background: #333;
   font-family: 'Monaco', 'Consolas', 'Courier New', Courier, monospace, sans-serif;
 }
 .entry-content code {
