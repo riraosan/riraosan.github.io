@@ -761,6 +761,7 @@ clear: both;
   background-color: #f8f8f8;
   border-radius: 3px;
   font-family: 'Monaco', 'Consolas', 'Courier New', Courier, monospace, sans-serif;
+  line-height: 10px !important;
 }
 .entry-content .hatena-asin-detail li {
   line-height: 1.4;
