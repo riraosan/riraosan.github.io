@@ -1290,7 +1290,7 @@ clear: both;
     font-family: FontAwesome;
     content: "\f272";
     left: 0;
-    font-size: 95%
+    font-size: 95%;
     top: 0;
     color: #3f3f3f;
   }
@@ -1396,7 +1396,7 @@ clear: both;
   .shrbtn{
     background:none ;
   }
-.
+
   .hatena-urllist li a {
     color:#3f3f3f;
   }
@@ -1441,7 +1441,7 @@ clear: both;
     float: none;
   }
   #box2 {
-    width: 93.75%
+    width: 93.75%;
     margin-left: auto;
     margin-right: auto;
     float: none;
