@@ -1,0 +1,14 @@
+.git
+.pio
+.vscode
+.DS_Store
+src/Application.*
+src/main.cpp
+lib
+data
+test
+*.ini
+SPEC.md
+asserts
+include
+*.json
